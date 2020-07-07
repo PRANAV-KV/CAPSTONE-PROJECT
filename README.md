@@ -1,6 +1,6 @@
 # Capstone Project - Sparkify Music Service Analytics
 
-Git-hub link:click [here](https://github.com/amalpm-rog/Capstone_Project.git)
+Git-hub link:click [here](https://github.com/PRANAV-KV/CAPSTONE-PROJECT.git)
 
 ### Motivation
 
@@ -42,9 +42,10 @@ The presented model represents the best model I have constructed so far. Origina
 ### Gallery
 
 
-[Project Notebook: Spark - Subset Analytics](https://nbviewer.jupyter.org/github/amalpm-rog/Capstone_Project/blob/master/Spark%20-%20Subset%20Analytics.ipynb)
+[Project Notebook: Spark - Subset Analytics](https://nbviewer.jupyter.org/github/PRANAV-KV/CAPSTONE-PROJECT/blob/master/Spark%20-%20Subset%20Analytics.ipynb)
 
-[Project Notebook: Spark - Full Dataset Analytics](https://nbviewer.jupyter.org/github/amalpm-rog/Capstone_Project/blob/master/Spark%20-%20Subset%20Analytics.ipynb)
+[Project Notebook: Spark - Full Dataset Analytics](https://nbviewer.jupyter.org/github/PRANAV-KV/CAPSTONE-PROJECT/blob/master/Spark%20-%20Full%20Dataset.ipynb)
 
-[Blog Post: Understanding Customer Churning with Big Data Analytics](https://medium.com/@amalpm0011/to-know-customer-churning-using-big-data-analytics-e95c09b95f73?sk=820be8e2ace48236a5576c87976c318a)
+[Blog Post: Understanding Customer Churning with Big Data Analytics](https://medium.com/@pranavkv_90260/big-data-analytics-to-know-customer-churning-d4b143a3cb0d?sk=0502274c6d454b951dc902ba8a72eff8
+)
 
